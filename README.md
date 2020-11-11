@@ -3,10 +3,10 @@
     <html lang = "pt-br">
         <heat>
         <meta charset="UTF-8">
-        <title> um título </title>
+        <tytle> esse é meu título </tytle>
         <heat>
         <bory>
-            <p> um parágrafo </p>  
+            <p> esse é meu parágrafo </p>  
         </bory>
             
 um arquivo index.html
